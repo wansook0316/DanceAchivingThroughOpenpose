@@ -1,5 +1,8 @@
 # Dance Achiving Through Openpose
 
+사람의 관절 위치 정보를 기반으로, 동작을 구분하기 위한 프로젝트입니다.
+[링크](https://wansook0316.github.io/cv/projects/2019/12/01/%EC%B6%A4-%EC%A0%80%EC%9E%91%EA%B6%8C-%EC%A0%9C%EC%9E%91-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.html)에서 확인할 수 있습니다.
+
 ## Usage
 
 data 폴더를 만들고,
